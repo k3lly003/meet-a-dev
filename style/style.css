@@ -1,0 +1,90 @@
+body{
+  overflow
+}
+.div-1 {
+  border: 4px solid;
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  margin-right: 10px;
+}
+.logo {
+  border-radius: 50px solid rgb(0, 0, 0);
+}
+.nav-list {
+  border: 2px solid black;
+}
+.nav-list li {
+  color: black;
+  display: flex;
+  text-decoration: none;
+}
+
+.h1-1 {
+  border: solid green;
+  color: aqua;
+  border-bottom: 2px solid aqua;
+  justify-content: end;
+  margin-right: 0px;
+}
+.div2-all {
+  display: flex;
+  justify-content: space-between;
+}
+.div-2 {
+  border: 3px solid;
+  justify-content: center;
+}
+.paragraphs {
+  width: 700px;
+  padding-top: 50px;
+  padding-left: 50px;
+}
+.para1 {
+  border: 2px solid green;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.para2 {
+  border: 2px solid;
+  font-family: "Tinos", serif;
+  display: flex;
+  justify-content: center;
+}
+.div-pe {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: end;
+  margin-top: 350px;
+  border: 2px solid red;
+}
+
+.div-3 {
+  border: 2px solid red;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 10px;
+}
+.icons {
+  border: 2px solid green;
+  display: flex;
+  align-items: center;
+  width: 100px;
+  justify-content: space-between;
+}
+.icons li {
+  display: flex;
+  text-decoration: none;
+  height: 90px;
+}
+.img {
+  border: 2px solid green;
+  padding-right: 90px;
+  padding-bottom: 300px;
+}
+.img-resize {
+  height: 500px;
+}
