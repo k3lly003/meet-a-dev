@@ -1,15 +1,14 @@
+.home-all {
+  background-color: black;
+}
 .div-1 {
-  /* border: 4px solid; */
+  border: 4px solid;
   display: flex;
   justify-content: space-between;
-  height: 150px;
-}
-.logo {
-  border-radius: 50px solid rgb(0, 0, 0);
 }
 
 .h1-1 {
-  border: solid green;
+  /* border: solid green; */
   color: aqua;
   border-bottom: 2px solid aqua;
   display: grid;
@@ -22,8 +21,8 @@
   justify-content: space-between;
 }
 .div-2 {
-  border: 3px solid;
-  justify-content: center;
+  /* border: 3px solid brown; */
+  /* justify-content: center; */
 }
 .paragraphs {
   width: 700px;
@@ -31,52 +30,60 @@
   padding-left: 50px;
 }
 .para1 {
-  border: 2px solid green;
+  /* border: 2px solid green; */
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  font-size: 45px;
+  font-size: 70px;
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 0px;
+  color: azure;
 }
 .para2 {
-  border: 2px solid;
+  /* border: 2px solid blue; */
   font-family: "Tinos", serif;
   display: flex;
   justify-content: center;
+  margin: 0px;
+  font-size: 30px;
+  color: azure;
 }
 .div-pe {
   display: flex;
   flex-direction: column-reverse;
   justify-content: end;
   margin-top: 180px;
-  border: 2px solid red;
+  color: azure;
+  /* border: 2px solid red; */
 }
 
 .div-3 {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   display: flex;
   justify-content: space-between;
   padding-right: 100px;
 }
 .icons {
-  border: 2px solid green;
+  /* border: 2px solid green; */
   display: flex;
   align-items: center;
-  width: 80px;
-  justify-conten: space-between;
-  padding-right: 60px;
+  justify-content: space-between;
 }
 .icons li {
   display: flex;
   text-decoration: none;
   height: 70px;
-  padding-right: 50px;
+  padding: 0px;
+  margin: 0px;
 }
 .img {
-  border: 2px solid green;
-  padding-right: 90px;
-  padding-bottom: 300px;
+  /* border: 2px solid green; */
+  padding-right: 0px;
+  padding-bottom: 0px;
 }
 .img-resize {
-  height: 500px;
+  height: 300px;
+}
+.bx-menu {
+  color: azure;
 }

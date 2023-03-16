@@ -1,24 +1,30 @@
+body {
+  background-color: black;
+}
 .menu-div {
-  /* background-color:black; */
+  /* background-color: black; */
+  color: aliceblue;
 }
 
 .div2 {
-  border: 2px solid red;
+  color: aliceblue;
+  /* border: 2px solid red; */
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 400px;
+  /* justify-content: space-around; */
+  height: 500px;
 }
 .div2 li {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
-
 
 #help {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin-top: 40px;
 }
-/* #menu{ */
-
+#menu {
+  color: rgb(255, 255, 255);
+  /* border: 2px solid purple; */
 }
