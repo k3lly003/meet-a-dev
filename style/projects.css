@@ -1,0 +1,59 @@
+.empty-file img {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+  margin-left: 550px;
+  width: 200px;
+  height: 200px;
+}
+.up-bar {
+  /* border: 2px solid yellow; */
+  display: flex;
+  justify-content: space-between;
+  margin-right: 60px;
+  text-decoration: none;
+}
+.about {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 13px;
+  padding-top: 6px;
+}
+.about-u {
+  text-decoration: none;
+}
+.about :hover {
+  color: aqua;
+}
+.help {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 13px;
+  padding-top: 6px;
+}
+.help-u {
+  text-decoration: none;
+}
+.help :hover {
+  color: aqua;
+}
+.feedback {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 13px;
+  padding-top: 6px;
+}
+.feedback-u {
+  text-decoration: none;
+}
+.feedback :hover {
+  color: aqua;
+}
+.contact-me {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 13px;
+  padding-top: 6px;
+}
+.contact-u {
+  text-decoration: none;
+}
+.contact-me :hover {
+  color: aqua;
+}

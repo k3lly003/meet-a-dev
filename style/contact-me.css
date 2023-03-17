@@ -1,0 +1,54 @@
+body {
+  background-color: black;
+}
+.up-bar {
+  /* border: 2px solid yellow; */
+  display: flex;
+  justify-content: space-between;
+  margin-right: 60px;
+  text-decoration: none;
+}
+.about {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 13px;
+  padding-top: 6px;
+}
+.about-u {
+  text-decoration: none;
+}
+.about :hover {
+  color: aqua;
+}
+.projects {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 13px;
+  padding-top: 6px;
+}
+.projects-u {
+  text-decoration: none;
+}
+.projects :hover {
+  color: aqua;
+}
+.feedback {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 13px;
+  padding-top: 6px;
+}
+.feedback-u {
+  text-decoration: none;
+}
+.feedback :hover {
+  color: aqua;
+}
+.help {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 13px;
+  padding-top: 6px;
+}
+.help-u {
+  text-decoration: none;
+}
+.help :hover {
+  color: aqua;
+}

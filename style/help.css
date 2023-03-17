@@ -1,0 +1,133 @@
+.up-bar {
+  /* border: 2px solid yellow; */
+  display: flex;
+  justify-content: space-between;
+  margin-right: 60px;
+  text-decoration: none;
+}
+.about {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 13px;
+  padding-top: 6px;
+}
+.about-u {
+  text-decoration: none;
+}
+.about :hover {
+  color: aqua;
+}
+.projects {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 13px;
+  padding-top: 6px;
+}
+.projects-u {
+  text-decoration: none;
+}
+.projects :hover {
+  color: aqua;
+}
+.feedback {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 13px;
+  padding-top: 6px;
+}
+.feedback-u {
+  text-decoration: none;
+}
+.feedback :hover {
+  color: aqua;
+}
+.contact-me {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 13px;
+  padding-top: 6px;
+}
+.contact-u {
+  text-decoration: none;
+}
+.contact-me :hover {
+  color: aqua;
+}
+.how {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30px;
+  margin-top: 70px;
+}
+.text-me {
+  /* border: 2px solid blue; */
+  display: flex;
+  justify-content: center;
+}
+.input {
+  border: 2px solid rgb(11, 227, 227);
+  padding: 5px 15px 5px 15px;
+  border-radius: 5px;
+  /* height: 100px; */
+  /* width: 300px; */
+}
+.help-icons {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+.div-pe {
+  display: flex;
+  /* flex-direction: column-reverse; */
+  justify-content: space-between;
+  margin: 0px 40px 0px 40px;
+  margin-top: 180px;
+  margin-top: 100px;
+  /* border: 2px solid red; */
+}
+.div-pe i {
+  color: azure;
+}
+.quater {
+  /* border: 2px solid yellow; */
+}
+.circle {
+  color: black;
+  /* border: 2px solid rgb(0, 255, 60); */
+}
+.compass {
+  /* border: 2px solid rgb(126, 25, 227); */
+}
+.qua-i {
+  /* height: 300px; */
+}
+.ci-i {
+  /* height: 300px; */
+}
+.co-i {
+  /* height: 300px; */
+  /* font-weight: 400; */
+}
+.qua-sec {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30px;
+  color: azure;
+}
+.ci-a {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30px;
+  color: azure;
+}
+.co-gu {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30px;
+  color: azure;
+}
+.how-p {
+  color: azure;
+}
+body {
+  background-color: black;
+}
