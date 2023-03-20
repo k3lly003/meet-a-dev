@@ -12,6 +12,7 @@
 }
 .about-u {
   text-decoration: none;
+  color: azure;
 }
 .about :hover {
   color: aqua;
@@ -23,6 +24,7 @@
 }
 .projects-u {
   text-decoration: none;
+  color: azure;
 }
 .projects :hover {
   color: aqua;
@@ -34,6 +36,7 @@
 }
 .feedback-u {
   text-decoration: none;
+  color: azure;
 }
 .feedback :hover {
   color: aqua;
@@ -45,6 +48,7 @@
 }
 .contact-u {
   text-decoration: none;
+  color: azure;
 }
 .contact-me :hover {
   color: aqua;
@@ -61,6 +65,18 @@
   /* border: 2px solid blue; */
   display: flex;
   justify-content: center;
+}
+.bk {
+  display: flex;
+  justify-content: center;
+  margin-top: 7px;
+}
+
+.snd-btn-i {
+  display: flex;
+  justify-content: center;
+  background-color: aqua;
+  border-radius: 5px;
 }
 .input {
   border: 2px solid rgb(11, 227, 227);

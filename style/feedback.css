@@ -1,7 +1,4 @@
-body{
-  width: 100%;
-    background-color: black;
-}
+
 .feedback{
     /* border: 2px solid red; */
     display: flex;
@@ -31,6 +28,7 @@ body{
 }
 .about-u {
   text-decoration: none;
+  color: azure;
 }
 .about :hover {
   color: aqua;
@@ -42,6 +40,7 @@ body{
 }
 .projects-u {
   text-decoration: none;
+  color: azure;
 }
 .projects :hover {
   color: aqua;
@@ -53,6 +52,7 @@ body{
 }
 .help-u {
   text-decoration: none;
+  color: azure;
 }
 .help :hover {
   color: aqua;
@@ -64,6 +64,7 @@ body{
 }
 .contact-u {
   text-decoration: none;
+  color: azure;
 }
 .contact-me :hover {
     color: aqua;
@@ -148,4 +149,13 @@ body{
 }
 .pe i {
   /* color: green; */
+}
+body{
+  background-image: url(../img/InShot_20230302_092825882-removebg-preview.png);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: black; 
+  filter:brightness(90%);
 }

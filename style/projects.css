@@ -20,6 +20,7 @@
 }
 .about-u {
   text-decoration: none;
+  color: black;
 }
 .about :hover {
   color: aqua;
@@ -31,6 +32,7 @@
 }
 .help-u {
   text-decoration: none;
+  color: black;
 }
 .help :hover {
   color: aqua;
@@ -42,6 +44,7 @@
 }
 .feedback-u {
   text-decoration: none;
+  color: black;
 }
 .feedback :hover {
   color: aqua;
@@ -53,6 +56,7 @@
 }
 .contact-u {
   text-decoration: none;
+  color: black;
 }
 .contact-me :hover {
   color: aqua;

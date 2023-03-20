@@ -4,6 +4,7 @@
   justify-content: space-between;
   margin-right: 60px;
   text-decoration: none;
+  color: azure;
 }
 .feedback {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
@@ -12,6 +13,7 @@
 }
 .feedback-u {
   text-decoration: none;
+  color: azure;
 }
 .feedback :hover {
   color: aqua;
@@ -23,6 +25,7 @@
 }
 .projects-u {
   text-decoration: none;
+  color: azure;
 }
 .projects :hover {
   color: aqua;
@@ -34,6 +37,7 @@
 }
 .help-u {
   text-decoration: none;
+  color: azure;
 }
 .help :hover {
   color: aqua;
@@ -45,6 +49,7 @@
 }
 .contact-u {
   text-decoration: none;
+  color: azure;
 }
 .contact-me :hover {
   color: aqua;
@@ -52,16 +57,19 @@
 .abt-helpin {
   margin-top: 25px;
   /* border: 2px solid red; */
+  color: azure;
 }
 .about-h {
   /* border: 2px solid yellow; */
   margin-top: 20px;
-  margin-left: 600px;
+  margin-left: 500px;
+  color: azure;
+  padding-right: 80px;
 }
 .abt-me-para {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 40px;
-  /* color: azure; */
+  color: azure;
 }
 .helpin {
   /* border: 2px solid rgb(21, 123, 218); */
@@ -72,59 +80,139 @@
 .helpin-para {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 10px;
+  color: azure;
 }
-/* .edu-skill {
-  display: inline-block;
-  justify-content: center;
-  justify-content: space-around;
-} */
-/* .skills {
+.helping-para span {
+  color: red;
+}
+.up-header {
   display: flex;
   justify-content: center;
   justify-content: space-around;
-} */
-/* .edu-p {
+}
+.edu-skill {
+  /* border: 2px solid green; */
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  margin-right: 70px;
+}
+.skills {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+.edu-p {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 40px;
   display: inline-block;
   justify-content: center;
   justify-content: space-around;
-} */
-/* .edu-div {
+}
+.edu-div {
   border: 2px solid yellow;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 30px;
-} */
-/* .skill-div {
+}
+.skill-div {
   border: 2px solid rgb(98, 0, 255);
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 30px;
-  /* color: azure; */
-} */
-/* .si {
+  color: azure;
+}
+.si {
   display: inline-block;
   justify-content: center;
   justify-content: space-around;
-} */
-/* .es-p {
+  color: azure;
+}
+.es-p {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 10px;
-} */
-/* .sp {
+  color: azure;
+}
+.sp {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 10px;
-} */
-/* .p-type {
+  color: azure;
+}
+.edu-pi {
+  padding-top: 5px;
+}
+.es-pi {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 15px;
+  color: azure;
+}
+.p-type {
   display: flex;
   justify-content: center;
   justify-content: space-around;
-} */
-
-.parent{
-  border: 2px solid red;
-  display: flex;
-  justify-content: space-around;
 }
-.child2{
+.input {
   /* border: 2px solid red; */
+  padding-top: 5px;
+  margin-left: 10px;
+  padding-top: 6px;
+}
+.put {
+  padding-top: 2px;
+  color: green;
+}
+.puta {
+  padding-top: 2px;
+  color: green;
+}
+.put {
+  padding-top: 1px;
+  color: green;
+}
+.pute {
+  padding-top: 1px;
+  color: green;
+}
+.puti {
+  padding-top: 5px;
+  color: green;
+}
+.puto {
+  padding-top: 1px;
+  color: green;
+}
+.low-side {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+.icons {
+  /* border: 2px solid purple; */
+  display: flex;
+  text-decoration: none;
+}
+.icons li {
+  color: white;
+  display: flex;
+  text-decoration: none;
+  height: 70px;
+  padding: 0px;
+  margin: 0px;
+  height: 50%vh;
+}
+.ed-h {
+  color: azure;
+}
+.edu-h2 {
+  color: azure;
+}
+.skills-h {
+  color: azure;
+}
+.ski-h2 {
+  color: azure;
+}
+.div-pe {
+  color: azure;
+}
+body {
+  background-color: black;
 }

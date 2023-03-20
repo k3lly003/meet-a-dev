@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  /* background-color: black; */
 }
 .up-bar {
   /* border: 2px solid yellow; */
@@ -15,6 +15,7 @@ body {
 }
 .about-u {
   text-decoration: none;
+  color: azure;
 }
 .about :hover {
   color: aqua;
@@ -26,6 +27,7 @@ body {
 }
 .projects-u {
   text-decoration: none;
+  color: azure;
 }
 .projects :hover {
   color: aqua;
@@ -37,6 +39,7 @@ body {
 }
 .feedback-u {
   text-decoration: none;
+  color: azure;
 }
 .feedback :hover {
   color: aqua;
@@ -48,7 +51,63 @@ body {
 }
 .help-u {
   text-decoration: none;
+  color: azure;
 }
 .help :hover {
   color: aqua;
+}
+.get-in-touch {
+  display: flex;
+  justify-content: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  color: azure;
+  margin-top: 30px;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+.c-right {
+  /* border: 2px solid green; */
+}
+.c-left {
+  /* border: 2px solid red; */
+}
+.input {
+  height: 50px;
+  width: 250px;
+}
+.in {
+  height: 80px;
+  width: 250px;
+}
+.send-msg {
+  margin-left: 40px;
+  background-color: aqua;
+  border-radius: 20px;
+  height: 30px;
+  width: 200px;
+}
+.send-msg :hover {
+  color: aqua;
+}
+.enve {
+  margin-bottom: 20px;
+}
+.pho {
+  border: 2px solid green;
+}
+.map {
+  border-radius: 3px;
+}
+body {
+  background-image: url(../img/world-map-dark.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: black;
+  filter: brightness(85%);
 }

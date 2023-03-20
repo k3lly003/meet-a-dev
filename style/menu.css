@@ -2,8 +2,7 @@ body {
   color: black;
 }
 .menu-div {
-  /* width: 100%; */
-  background-color: black;
+  width: 100%;
 }
 .menu-all {
   /* border: 2px solid red; */
@@ -18,6 +17,7 @@ body {
   border-bottom: 2px solid aqua;
   display: flex;
   justify-content: center;
+  align-items: center;
   margin-left: 42%;
   margin-bottom: 30px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
@@ -113,4 +113,7 @@ a {
 }
 .help :hover {
   color: aqua;
+}
+body {
+  background-color: black;
 }
